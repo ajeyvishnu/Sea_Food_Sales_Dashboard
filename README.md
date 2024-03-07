@@ -2,6 +2,10 @@
 
 Welcome to the Seafood Sales Dashboard repository! This project provides a comprehensive analysis of seafood sales data through interactive visualizations. Gain insights into key performance indicators (KPIs), revenue splits, seasonality, shipping classifications, customer segmentation, and inventory management.
 
+## Dashboard Preview
+
+![Seafood Sales Dashboard](Dashboard.png)
+
 ## Overview
 
 The Seafood Sales Dashboard offers a holistic view of the sales performance of seafood products. It addresses the following critical questions:
